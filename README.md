@@ -12,3 +12,6 @@ fi
 else print message that the file does not exist 
 fi else print the "Usage" message 
 fi
+<img width="1440" alt="Script1" src="https://user-images.githubusercontent.com/93098526/223606577-1a8c8eeb-9393-42fd-aca5-bf985eab4891.png">
+
+
